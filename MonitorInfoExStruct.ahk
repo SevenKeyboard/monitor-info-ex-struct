@@ -22,7 +22,7 @@
 class MONITORINFOEX_VersionManager
 {
     static _ := MONITORINFOEX_VersionManager.init()
-    init() {
+    init()    {
         global
         MONITORINFOEX_VERSION := "1.0.0"
     }
