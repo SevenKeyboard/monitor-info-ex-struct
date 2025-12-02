@@ -1,6 +1,6 @@
 ﻿#Requires AutoHotkey v2.0.0+
 ;==============================================================
-; MONITORINFOEX — Wrapper for WINUSER.H MONITORINFOEX(A/W)
+; MONITORINFOEX — Wrapper for WINUSER.H MONITORINFOEX
 ;
 ; GitHub: https://github.com/SevenKeyboard/monitor-info-ex-struct
 ; Author: SevenKeyboard Ltd. (2025)
