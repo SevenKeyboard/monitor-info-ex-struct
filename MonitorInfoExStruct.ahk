@@ -1,4 +1,4 @@
-﻿#Requires AutoHotkey v1.1.17+
+﻿#Requires AutoHotkey v1.1.35+
 ;==============================================================
 ; MONITORINFOEX — Wrapper for WINUSER.H MONITORINFOEX(A/W)
 ;
