@@ -7,13 +7,13 @@
 ; License: The Unlicense
 ;
 ; Documentation / References:
-;   EnumDisplayMonitors:
+;   EnumDisplayMonitors function (winuser.h)
 ;     https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-enumdisplaymonitors
-;   MONITORENUMPROC callback:
+;   MONITORENUMPROC callback function (winuser.h)
 ;     https://learn.microsoft.com/en-us/windows/win32/api/winuser/nc-winuser-monitorenumproc
-;   GetMonitorInfoW:
+;   GetMonitorInfoW function (winuser.h)
 ;     https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getmonitorinfow
-;   MONITORINFOEXW structure:
+;   MONITORINFOEXW structure (winuser.h)
 ;     https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-monitorinfoexw
 ;
 ; Version:
