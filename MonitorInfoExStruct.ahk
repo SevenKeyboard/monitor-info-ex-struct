@@ -1,19 +1,19 @@
 ﻿#Requires AutoHotkey v1.1.35+
 ;==============================================================
-; MONITORINFOEX — Wrapper for WINUSER.H MONITORINFOEX(A/W)
+; MONITORINFOEX — Wrapper for WINUSER.H MONITORINFOEX
 ;
 ; GitHub: https://github.com/SevenKeyboard/monitor-info-ex-struct
 ; Author: SevenKeyboard Ltd. (2025)
 ; License: The Unlicense
 ;
 ; Documentation / References:
-;   EnumDisplayMonitors:
+;   EnumDisplayMonitors function (winuser.h)
 ;     https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-enumdisplaymonitors
-;   MONITORENUMPROC callback:
+;   MONITORENUMPROC callback function (winuser.h)
 ;     https://learn.microsoft.com/en-us/windows/win32/api/winuser/nc-winuser-monitorenumproc
-;   GetMonitorInfoW:
+;   GetMonitorInfoW function (winuser.h)
 ;     https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getmonitorinfow
-;   MONITORINFOEXW structure:
+;   MONITORINFOEXW structure (winuser.h)
 ;     https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-monitorinfoexw
 ;
 ; Version:
