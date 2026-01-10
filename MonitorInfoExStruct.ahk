@@ -15,16 +15,13 @@
 ;     https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getmonitorinfow
 ;   MONITORINFOEXW structure (winuser.h)
 ;     https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-monitorinfoexw
-;
-; Version:
-;   MONITORINFOEX_VERSION = 1.0.0
 ;==============================================================
-class MONITORINFOEX_VersionManager
+class MonitorInfoExStruct_VersionManager
 {
     static _ := this.init()
     static init()    {
         global
-        MONITORINFOEX_VERSION := "1.0.0"
+        MONITORINFOEXSTRUCT_VERSION := "2.0.0"
     }
 }
 MONITORINFOEX(header)    {
